@@ -3,7 +3,7 @@
 
 ![Filmpire Logo](https://courses.jsmastery.pro/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F24n4vxyj%2Fproduction%2F377f1ca9fb14e0185f0c952fbf4c1001ee3e23c0-870x488.png&w=640&q=75)
 
-![Filmpire Logo](../Filmpire-AI-Movie-App%20(1).png)
+![Filmpire Logo](https://github.com/CoderGhost37/Filmpire/raw/master/src/assets/images/Filmpire.jpg)
 
 ## Overview
 
