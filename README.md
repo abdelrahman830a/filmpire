@@ -1,4 +1,5 @@
 # Filmpire - Your Ultimate Movie App
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 
 ## Overview
